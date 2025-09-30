@@ -1,0 +1,48 @@
+{
+  "id": "lf00001",
+  "year": 2023,
+
+  "process":"fluvial",  
+  "era":"pleistozän",
+  "select_process_from": ["glacial","periglacial","aeolian","fluvial","gravitativ","karst","tectonic", "coastal"],
+ 
+  "licence":"CC-BY-NC", 
+  "title": {
+     "de": "Antezedentes Durchbruchstal Neckar",
+     "en": ""       
+           },
+   "description": {
+     "de": "Antezedentes Durchbruchstal vom Neckar bei Heidelberg. Durch die Heraushebung der östlichen Grabenschulter des Oberrheingrabens hat sich der Neckar tief in Gesteine des südlichen Odenwalds (Grundgebirge v.a. Granit und Buntsandstein) eingeschnitten. Durch rückschreitende Erosion hat der Neckar im Laufe der Zeit verschiedene Flusssysteme in seinem Einzugsgebiet angezapft und umgeleitet, sodass er Teil der großräumigen Entwässerung von Baden-Württemberg geworden ist.\nDie Bildaufnahme zeigt eine typische Inversion der Wetterlage mit starker Nebelbildung im Neckartal in den frühen Morgenstunden durch kalte Luftmassen im Tal. Blickrichtung über Heidelberg-Ziegelhausen von Südost (links im Bild) nach Südwest (rechts im Bild). Heidelberger Altstadt und Oberrheingraben im rechten Bildrand. Am Horizont sind die Ausläufer des Pfälzer Waldes und somit der westlichen Grabenschulter des Oberrheingrabens zu erkennen. Im zentralen Bereich südlich des Neckars liegt die höchste Erhebung des südlichen Odenwalds (Königsstuhl, 570m). Ebene nördlich des Neckars zwischen den Nebelbänken ist ehemaliger Talboden mit altpleistozänen Neckarschottern.",
+     "en": "" 
+   },
+ "location": {
+   "continent": "Europa",
+   "country": "Deutschland",
+   "region": "",
+   "city": "Freiburg",
+   "landscape": "Großstadt",
+   "latitude": 49.0,
+   "longitude": 9.0
+ },
+ "authors": [
+   { 
+     "firstname": "Felix",
+     "name": "Henselowsky",
+     "email": "",
+     "orcid": "0000-0000-0000-0000"
+   }
+ ],
+
+    "images": [
+  {
+    "url":"",
+    "name":"",
+    "orientation": "landscape",
+    "date":"2020-10-25 12:00"
+  },
+
+]
+
+
+
+}
